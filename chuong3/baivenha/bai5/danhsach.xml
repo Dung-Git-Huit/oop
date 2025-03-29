@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<NhanVien>
+		<TenNv>A</TenNv>
+		<MaNv>Nv1</MaNv>
+		<PhongBan>Tai chinh</PhongBan>
+		<ChucVu>NhanVien</ChucVu>
+		<HeSoLuong>3</HeSoLuong>
+		<ThamNien>3</ThamNien>
+		<NgayLamViec>25</NgayLamViec> 
+	</NhanVien>
+	<NhanVien>
+		<TenNv>B</TenNv>
+		<MaNv>Nv2</MaNv>
+		<PhongBan>Dao tao</PhongBan>
+		<ChucVu>Lanh dao</ChucVu>
+		<HeSoLuong>5</HeSoLuong>
+		<ThamNien>7</ThamNien>
+		<NgayLamViec>26</NgayLamViec>
+	</NhanVien>
+	<NhanVien>
+		<TenNv>C</TenNv>
+		<MaNv>Nv3</MaNv>
+		<PhongBan>Dao tao</PhongBan>
+		<ChucVu>Nhan vien</ChucVu>
+		<HeSoLuong>3</HeSoLuong>
+		<ThamNien>5</ThamNien>
+		<NgayLamViec>24</NgayLamViec>
+	</NhanVien>
+	<NhanVien>
+		<TenNv>D</TenNv>
+		<MaNv>Nv4</MaNv>
+		<PhongBan>Ctsv</PhongBan>
+		<ChucVu>Nhan vien</ChucVu>
+		<HeSoLuong>3</HeSoLuong>
+		<ThamNien>2</ThamNien>
+		<NgayLamViec>5</NgayLamViec>
+	</NhanVien>
+</DanhSach>

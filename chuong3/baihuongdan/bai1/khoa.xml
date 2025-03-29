@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Khoa>
+	<GiangVien>
+		<HoTen>Lam Thi Hoa Mi</HoTen>
+		<SoNhom>3</SoNhom>
+	</GiangVien>
+	
+	<GiangVien>
+		<HoTen>Duong Thi Mong Thuy</HoTen>
+		<SoNhom>3</SoNhom>
+	</GiangVien>
+	<GiangVien>
+		<HoTen>Vu Van VInh</HoTen>
+		<SoNhom>1</SoNhom>
+	</GiangVien>
+	<GiangVien>
+		<HoTen>Manh Thien Ly</HoTen>
+		<SoNhom>4</SoNhom>
+	</GiangVien>
+	</Khoa>

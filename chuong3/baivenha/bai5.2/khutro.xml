@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KhuTro>
+	<TenKhu>ABC</TenKhu>
+	<DiaChi>EFG</DiaChi>
+	<ListPhongTro>
+		<PhongTro>
+			<maphong>PT11</maphong>
+			<slkhach>3</slkhach>
+			<sodien>37</sodien>
+			<giaThue>2000000</giaThue>
+		</PhongTro>
+		<PhongTro>
+			<maphong>PT12</maphong>
+			<slkhach>2</slkhach>
+			<sodien>22</sodien>
+			<giaThue>2000000</giaThue>
+		</PhongTro>
+		<PhongTro>
+			<maphong>PT13</maphong>
+			<slkhach>3</slkhach>
+			<sodien>34</sodien>
+			<giaThue>2000000</giaThue>
+		</PhongTro>
+		<PhongTro>
+			<maphong>PT14</maphong>
+			<slkhach>4</slkhach>
+			<sodien>45</sodien>
+			<giaThue>2000000</giaThue>
+		</PhongTro>
+
+
+	</ListPhongTro>
+</KhuTro>
+
